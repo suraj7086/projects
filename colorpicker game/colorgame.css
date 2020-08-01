@@ -1,0 +1,23 @@
+body{
+	background-color:#242742;
+}
+.square{
+	background-color:yellow;
+	width:30%;
+	padding-bottom:30%;
+	float:left;
+	margin:1.66%;
+}
+#container
+{
+	max-width:600px;
+	margin:0 auto;
+}
+#strip{
+	height:30px;
+	background-color:white;
+	text-align:center;
+}
+.selected{
+	background-color:blue;
+}
